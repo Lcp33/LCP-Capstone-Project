@@ -1,4 +1,5 @@
 **Objective**
+
 Shopee is looking to create a customer base, improving customer experience and recommend relevant products to their customers and increase revenue. This report provides some important insights for the company to better understand their customers.
 
 
