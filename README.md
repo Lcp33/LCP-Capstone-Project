@@ -6,12 +6,10 @@ Some assumptions made on the dataset:
 2.	Price = Selling price per unit
 
 **Description of Dashboard**
--
--
+
 
 **General Observations**
--
--
+
 
 **Data Transformation**
 
