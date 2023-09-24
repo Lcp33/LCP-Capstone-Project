@@ -7,14 +7,14 @@ Some assumptions made on the dataset:
 
 **Description of Dashboard**
 
-•	The Clustered bar chart shows total sales by country.
-•	The Filled Map Chart shows the number of customers by country.
-•	The Donut Chart depicts total sales by gender.
-•	The Clustered Column chart shows total sales by Age group and Country.
-•	The Clustered Column chart shows total sales by Income and Country.
-•	The Line Chart shows the trend over time of sales by year, month and quarter.
-•	The Treemap Chart displays hierarchical view of sales by products, showing buying patterns.
-•	There are 2 slicers: Order Date and type of product. If the dashboard gives us a macro picture, the slicers helps us zoom into the individual units.
+-  The Clustered bar chart shows total sales by country.
+-  The Filled Map Chart shows the number of customers by country.
+-  The Donut Chart depicts total sales by gender.
+-  The Clustered Column chart shows total sales by Age group and Country.
+-  The Clustered Column chart shows total sales by Income and Country.
+-  The Line Chart shows the trend over time of sales by year, month and quarter.
+-  The Treemap Chart displays hierarchical view of sales by products, showing buying patterns.
+-  There are 2 slicers: Order Date and type of product. If the dashboard gives us a macro picture, the slicers helps us zoom into the individual units.
 
 --
 
