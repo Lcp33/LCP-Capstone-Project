@@ -9,10 +9,10 @@ Some assumptions made on the dataset:
 1.	Income = Annual income
 2.	Price = Selling price per unit
 
-**Description of Dashboard**
+### Description of Dashboard
 
 
-**General Observations**
+### General Observations
 
 - Shopee Colombia has the highest total sales while Shopee Brazil has the lowest for the year 2019 to 2022.
 - Shopee Colombia has the highest number of customers, while Shopee Mexico has the lowest.
@@ -23,7 +23,7 @@ Some assumptions made on the dataset:
 - Sales trended up from July 2019 to May 2020, and stabilized till Nov 2022 and decline till Jan 2023.
 
 
-**Data Transformation**
+### Data Transformation
 
 - Added columns to group the income and age.
 - Formatted text under order date from text to date.
