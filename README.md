@@ -17,11 +17,11 @@ Some assumptions made on the dataset:
 
 - Shopee Colombia has the highest total sales while Shopee Brazil has the lowest for the year 2019 to 2022.
 - Shopee Colombia has the highest number of customers, while Shopee Mexico has the lowest.
-- The sales for the four countries from Male was higher than Female.
-- The Middle age group spend the most followed by youth across the four countries.
-- Customers with income above 100k spend the most across four countries.
-- Sales trended up from July 2019 to May 2020, and stabilized till Nov 2022 and decline till Jan 2023.
+- There are more Male (50.55%) customers than Female(49.45%).
+- Among the four countries, the least no. of customer comes from Income below 25K. 
+- Customers with income below 25k spend the least across four countries.
 - The top 5 products sold are Curtains, Wall Art, Lighting, Furniture and Kitchen Appliance respectively.
+- Sales trended up from July 2019 to May 2020, and stabilized till Nov 2022 and decline till Jan 2023.
 
 
 **Data Transformation**
