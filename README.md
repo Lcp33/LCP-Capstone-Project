@@ -26,6 +26,6 @@ Some assumptions made on the dataset:
 ### Data Transformation
 
 - Added columns to group the income and age.
-- Formatted text under order date from text to date.
+- Changed data type of order date from text to date.
 - Added columns to determine sales.
-- Formatted text under the price columns to currency ($).
+- Changed data type of price columns from whole to currency ($).
