@@ -4,10 +4,11 @@ Shopee is looking to create a customer base, improving customer experience and r
 
 ### Description of Dataset
 
-The dataset is from a project for Shopee, Brazil. The data are from 4 countries namely Brazil, Chile, Columbia and Mexico. There are 2 main sets of data – customer and purchase. They consist of demographics of customers (name, country, age and income), the types of products purchased, quantity and shipping date and cost. The dataset has a size of 50,000 rows for “purchase” and 1,000 rows for “customer”. The dataset is dated from 2019 to 2023.
+The dataset is from a project for Shopee, Brazil. The data are from 4 countries namely Brazil, Chile, Columbia and Mexico. There are 2 main sets of data – customer and purchase. They consist of demographics of customers (name, country, age and income), the types of products purchased, quantity and shipping date and cost. The dataset has a size of 50,000 rows (6.65MB) for “purchase” and 1,000 rows(46.2KB) for “customer”. Both are CSV file type. The dataset is dated from 2019 to 2023.
 Some assumptions made on the dataset:
 1.	Income = Annual income
 2.	Price = Selling price per unit
+
 
 ### Description of Dashboard
 
