@@ -1,4 +1,4 @@
-![Image Alt Text](https://github.com/Lcp33/blob/main/Shopee1.png)
+![Image Alt Text](https://github.com/Lcp33/LCP-Capstone-project/blob/main/Shopee1.png)
 
 ### Objective
 
